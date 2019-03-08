@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+#include <conio.h>
+#include <iomanip>
+
+using namespace std;
+
+int main ()
+{
+	double NetBalance;
+	double d1;
+	double Payment;
+	double d2;
+	double AverageDailyBalance;
+
+	cout 
+
+_getch();
+return 0;
+}
